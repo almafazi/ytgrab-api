@@ -1,9 +1,9 @@
 <?php
 include 'core/func.php';
 
-$title='Trapcity: Free Download and Streaming Music Mp3 & Video MP4' ;
-$ogtitle='Trapcity: Free Download and Streaming Music Mp3 & Video MP4' ;
-$description='Trapcity is a easy and free song or video streaming and download  site.' ;
+$title='Download & Streaming Music Mp3 3gp Mp4, Trending Video' ;
+$ogtitle='Download & Streaming Music Mp3 3gp Mp4, Trending Video' ;
+$description='find your favorite songs and popular videos just here - HDmedia' ;
 $keywords='Music, Video, Download Music, Download Video, Watch Movie, Stafaband, Popular Song, Muviza, Savelagu, Planetlagu, Tvile, Rock, Pop, Tutorial Video' ;
 $nail='/assets/img/thumbs.png' ;
 $ngindek='index,follow' ;

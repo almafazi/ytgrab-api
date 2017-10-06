@@ -59,11 +59,11 @@ jQuery("document").ready(function(n){var a=n(".navZ");n(window).scroll(function(
 <div class="clearfix">
 <div class="ktz-logo">
 
-<a href="/" title="Waptube"><img src="/assets/img/trapcity.png" alt="Trapcity"/></a>
+<a href="/" title="Waptube"><img src="/assets/img/HDmedia.png" alt="HDmedia"/></a>
 
 <h1 class="homeblogtit-hide">Free Download and Streaming Music Mp3 & Video MP4, WeBM</h1>
 
-<div class="desc-hide">Trapcity is a video and music mp3 site that can be downloaded and watched also streaming for free. download easily is also fast with an various formats like mp3 webm and mp4 in HD quality 1080p, 720p, 320KBps!</div>
+<div class="desc-hide">HDmedia is a video and music mp3 site that can be downloaded and watched also streaming for free. download easily is also fast with an various formats like mp3 webm and mp4 in HD quality 1080p, 720p, 320KBps!</div>
 
 </div>
 </div>

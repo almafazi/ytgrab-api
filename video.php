@@ -7,9 +7,9 @@ if($_GET['nation']) {
   $nt = 'id';
 }
 
-$title       = 'Viral Videos on '.strtoupper($nt).' | Trapcity';
-$ogtitle       = 'Viral Videos on '.strtoupper($nt).' | Trapcity';
-$description = 'Top Videos - Viral Video On '.strtoupper($nt).' - Trapcity';
+$title       = 'Popular Videos on '.strtoupper($nt).' | HDmedia';
+$ogtitle       = 'Popular Videos on '.strtoupper($nt).' | HDmedia';
+$description = 'Find Popular Videos On '.strtoupper($nt).' - HDmedia';
 $keywords    = 'Search stream and download world videos, Search stream and download world music';
 $nail        = '/assets/img/thumbs.jpg';
 $ngindek = 'index,follow';

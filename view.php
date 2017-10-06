@@ -43,8 +43,8 @@ $uhuk = queryname($q);
             }
         }
                   if(!$descr || strlen($descr) < 60) {
-                  $descnew = 'Streaming & Download '.substr($artists,0,60).' Song or Video Mp4 Mp3 3gp Free On Trapcity.';
-                  $descs = 'Streaming & Download '.substr($artists,0,60).' Song or Video HD 1080p, 720p, 320Kbps Webm Mp4 Mp3 3gp Free On Trapcity.';
+                  $descnew = 'Streaming & Download '.substr($artists,0,60).' Song or Video Mp4 Mp3 3gp Free On HDmedia.';
+                  $descs = 'Streaming & Download '.substr($artists,0,60).' Song or Video HD 1080p, 720p, 320Kbps Webm Mp4 Mp3 3gp Free On HDmedia.';
                   } else {
                   $descnew = ''.substr($artists,0,60).', '.descript($descr).'';
                   $descs = ''.substr($artists,0,60).', '.$descr.'';
@@ -52,14 +52,14 @@ $uhuk = queryname($q);
 
 
 
-                $title       = ''.ucwords($artists).' | MP3 Song & Video Download - Trapcity';
-                $ogtitle       = ''.$artists.' | MP3 Song & Video Download - Trapcity';
+                $title       = ''.ucwords($artists).' | MP3 & Video Download - HDmedia';
+                $ogtitle       = ''.$artists.' | MP3 & Video Download - HDmedia';
                 $description = ''.queryname($descnew).'';
                 $keywords    = 'Download music mp3 '.$uhuk.', Download video '.$uhuk.', Streaming '.$uhuk.', Download song mp3 '.$uhuk.' free, Download video '.$uhuk.'  free, Download lagu, mp3 gratis';
                 $nail        = ''.$gede.'';
                 $ngindek = 'index,follow';
                 
-                if(!$name) { $ngindek = 'noindex,nofollow'; $notfound = true; $title = $ogtitle = $description = 'Not Found | Download MP3 Song & Video - Trapcity';}
+                if(!$name) { $ngindek = 'noindex,nofollow'; $notfound = true; $title = $ogtitle = $description = 'Not Found | Download MP3 Song & Video - HDmedia';}
 
                 include 'inc/header.php';
 

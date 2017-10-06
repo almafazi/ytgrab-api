@@ -44,9 +44,9 @@ $nextpage=$jason->nextPageToken;
 $prevpage=$jason->prevPageToken;
 if(!$jason->items[0]->id && !$jason->items[1]->id && !$jason->items[2]->id ) { $ngindek = 'noindex,nofollow'; $notfound = true; }
 
-$title       = ''.$uhuk.' - Trapcity - 3gp mp3 mp4 download';
-$ogtitle     = ''.$uhuk.' - Trapcity - 3gp mp3 mp4 download';
-$description = 'Streaming & Download '.strtoupper($uhuk).' HD 1080p 720p 320Kbps mp3 and video mp4 3gp - Trapcity';
+$title       = ''.$uhuk.' - HDmedia mp3 3gp video download';
+$ogtitle     = ''.$uhuk.' - HDmedia mp3 3gp video download';
+$description = 'Streaming & Download '.strtoupper($uhuk).' HD 1080p 720p 320Kbps mp3 and video mp4 3gp - HDmedia';
 $keywords    = 'Download music mp3 '.$uhuk.', Download video '.$uhuk.', Streaming '.$uhuk.', Download song mp3 '.$uhuk.' free, Download video '.$uhuk.'  free, Download lagu';
 $nail        = '/assets/img/thumbs.png';
 

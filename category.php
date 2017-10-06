@@ -1,9 +1,9 @@
 <?php
 include 'core/func.php';
 $cat = $_GET['cat'];
-$title       = ''.ucwords($cat).' | Free Download and Streaming Music Mp3 & Video MP4';
-$ogtitle       = ''.ucwords($cat).' | Free Download and Streaming Music Mp3 & Video MP4';
-$description = ''.ucwords($cat).' - Find '.ucwords($cat).' music genres on Trapcity';
+$title       = ''.ucwords($cat).' | HDmedia - Download & Streaming';
+$ogtitle       = ''.ucwords($cat).' | HDmedia - Download & Streaming';
+$description = ''.ucwords($cat).' - Find '.ucwords($cat).' music genres on HDmedia';
 $keywords    = 'Download music mp3 '.ucwords($cat).', Download video '.ucwords($cat).', Streaming '.ucwords($cat).', Download music mp3 '.ucwords($cat).' Free, Download video '.ucwords($cat).' free, Collection '.ucwords($cat).' Full Album';
 $ngindek = 'index,follow';
 $nail        = '/assets/img/thumbs.jpg';

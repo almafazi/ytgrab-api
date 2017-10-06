@@ -3,8 +3,8 @@ $p = $_GET['p'];
 
 if($p == 'disclaimer'){
 
-$title       = 'Disclaimer | Trapcity';
-$ogtitle       = 'Disclaimer | Trapcity';
+$title       = 'Disclaimer | ';
+$ogtitle       = 'Disclaimer | ';
 $description = 'Search, stream and download world videos and musics Mp3, Flac, Mp4, Webm, 3gp, 320Kbps, 1080p, 4K, HD, HQ, FUll Album, Easy & Free.';
 $keywords    = 'Search stream and download world videos, Search stream and download world music';
 $nail        = '/assets/img/thumbs.jpg';
@@ -23,9 +23,9 @@ echo '
 <div class="inner-box">
 <div class="entry-body">
 <div class="ktz-titlepage"><h1 class="entry-title"><span class="ktz-blocktitle">Desclaimer</span></h1></div>
-1. Trapcity does not host any of the files displayed on this site. </br>
-2. Trapcity indexes these files which are located on remote servers which neither Music-video nor its affiliates have any connection with / control of / association with. </br>
-3. You download mp3 or video files from another host service. (not from Trapcity)</br>
+1.  does not host any of the files displayed on this site. </br>
+2.  indexes these files which are located on remote servers which neither Music-video nor its affiliates have any connection with / control of / association with. </br>
+3. You download mp3 or video files from another host service. (not from )</br>
 4. All music and video on is presented only for fact-finding listening or watching.</br>
 5. You must remove a song from the computer after listening or watching.</br>
 6. If You won"t delete files from the computer, You"ll break the copyrights protection laws. </br>
@@ -33,8 +33,8 @@ echo '
 </div>
 </article></div></aside></div></div></section></div> ';
 } else if ($p == 'about') {
-$title       = 'About - Trapcity';
-$ogtitle       = 'About - Trapcity';
+$title       = 'About - ';
+$ogtitle       = 'About - ';
 $description = 'Search, stream and download world videos and musics Mp3, Flac, Mp4, Webm, 3gp, 320Kbps, 1080p, 4K, HD, HQ, FUll Album, Easy & Free.';
 $keywords    = 'Search stream and download world videos, Search stream and download world music';
 $nail        = '/assets/img/thumbs.jpg';
@@ -54,7 +54,7 @@ echo '
 <div class="inner-box">
 <div class="entry-body">
 <div class="ktz-titlepage"><h1 class="entry-title"><span class="ktz-blocktitle">About</span></h1></div>
-Trapcity Just search engine to find music and video coming from Soundcloud.com and youtube.com. We indexing millions of files from around the world. However, no files are uploaded and stored on our server.
+ Just search engine to find music and video coming from Soundcloud.com and youtube.com. We indexing millions of files from around the world. However, no files are uploaded and stored on our server.
 <br>
 Music-video is a search engine designed to facilitate the search for any purpose. Do not download files containing copyrighted without permission. Please Read Disclaimer, before you proceed to search and download music and video.
 <br>
@@ -62,8 +62,8 @@ To support the artist please buy music and video from the source of law is conce
 </div>
 </article></div></aside></div></div></section></div> ';
 } else if ($p == 'contact') {
-$title       = 'Contact - Trapcity';
-$ogtitle       = 'Contact - Trapcity';
+$title       = 'Contact - ';
+$ogtitle       = 'Contact - ';
 $description = 'Search, stream and download world videos and musics Mp3, Flac, Mp4, Webm, 3gp, 320Kbps, 1080p, 4K, HD, HQ, FUll Album, Easy & Free.';
 $keywords    = 'Search stream and download world videos, Search stream and download world music';
 $nail        = '/assets/img/thumbs.jpg';
@@ -75,8 +75,8 @@ echo '
 Fast Response, Please Contact : <b>hbanget8@gmail.com</b>
 </div> ';
 } else {
-$title       = 'DMCA - Trapcity';
-$ogtitle       = 'DMCA - Trapcity';
+$title       = 'DMCA - ';
+$ogtitle       = 'DMCA - ';
 $description = 'Search, stream and download world videos and musics Mp3, Flac, Mp4, Webm, 3gp, 320Kbps, 1080p, 4K, HD, HQ, FUll Album, Easy & Free.';
 $keywords    = 'Search stream and download world videos, Search stream and download world music';
 $nail        = '/assets/img/thumbs.jpg';
@@ -95,10 +95,10 @@ echo '
 <div class="inner-box">
 <div class="entry-body">
 <div class="ktz-titlepage"><h1 class="entry-title"><span class="ktz-blocktitle">DMCA</span></h1></div>
-Trapcity is an online website service provider as defined in the Digital Millennium Copyright Act.
+ is an online website service provider as defined in the Digital Millennium Copyright Act.
 We strongly support the law of copyright and the law would protect the copyright owner seriously.
 <br>
-If you are the owner of any content that appears on the website Trapcity and you do not allow the use of that content, then you really allowed to tell us by writing an email to <b>hbanget8@gmail.com</b> allow us to identify and take action as necessary.
+If you are the owner of any content that appears on the website  and you do not allow the use of that content, then you really allowed to tell us by writing an email to <b>hbanget8@gmail.com</b> allow us to identify and take action as necessary.
 <br>
 We can not take action if you do not give us the necessary information. So please write an email filled with containing some details are mentioned below.
 <br>
