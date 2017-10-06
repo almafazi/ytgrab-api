@@ -1,0 +1,901 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/CPuYCc4yFDvoC_LhMOqYmfPNUic\"",
+ "nextPageToken": "CAoQAA",
+ "pageInfo": {
+  "totalResults": 200,
+  "resultsPerPage": 10
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/dYW9VY-M0qNFxcCjl0dznz65dwU\"",
+   "id": "5IP8jQNXDOo",
+   "snippet": {
+    "publishedAt": "2017-10-04T06:27:09.000Z",
+    "channelId": "UCkH1uDkyuO9sVjSqdqBygOg",
+    "title": "Girlfriend Of Vegas Shooter Arrives At LAX From Philippines For Questioning",
+    "description": "The Las Vegas gunmen's girlfriend arrived at Los Angeles International Airport Tuesday night and will be taken by authorities for what is expected to be intense questioning.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5IP8jQNXDOo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5IP8jQNXDOo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5IP8jQNXDOo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/5IP8jQNXDOo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/5IP8jQNXDOo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CBS Los Angeles",
+    "tags": [
+     "CBS 2 News Evening",
+     "Las Vegas Shooting"
+    ],
+    "categoryId": "25",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+     "title": "Girlfriend Of Vegas Shooter Arrives At LAX From Philippines For Questioning",
+     "description": "The Las Vegas gunmen's girlfriend arrived at Los Angeles International Airport Tuesday night and will be taken by authorities for what is expected to be intense questioning."
+    },
+    "defaultAudioLanguage": "en"
+   },
+   "contentDetails": {
+    "duration": "PT1M50S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "statistics": {
+    "viewCount": "86008",
+    "likeCount": "598",
+    "dislikeCount": "207",
+    "favoriteCount": "0",
+    "commentCount": "843"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/T08T6zQrcYpqx3rSMfjpgwb0IOE\"",
+   "id": "2t4gy3oAx7I",
+   "snippet": {
+    "publishedAt": "2017-10-04T07:35:01.000Z",
+    "channelId": "UCMtFAi84ehTSYSE9XoHefig",
+    "title": "Trump Blames Puerto Rico For Running Up His Budget",
+    "description": "President Trump's visit to Puerto Rico quickly shifted from providing relief for hurricane victims to practicing his jump shot.\n\nSubscribe To \"The Late Show\" Channel HERE: http://bit.ly/ColbertYouTube\nFor more content from \"The Late Show with Stephen Colbert\", click HERE: http://bit.ly/1AKISnR\nWatch full episodes of \"The Late Show\" HERE: http://bit.ly/1Puei40\nLike \"The Late Show\" on Facebook HERE: http://on.fb.me/1df139Y\nFollow \"The Late Show\" on Twitter HERE: http://bit.ly/1dMzZzG\nFollow \"The Late Show\" on Google+ HERE: http://bit.ly/1JlGgzw\nFollow \"The Late Show\" on Instagram HERE: http://bit.ly/29wfREj\nFollow \"The Late Show\" on Tumblr HERE: http://bit.ly/29DVvtR\n\nWatch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.\n\nGet the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge\n\nGet new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B\n\n---\nThe Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2t4gy3oAx7I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2t4gy3oAx7I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2t4gy3oAx7I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2t4gy3oAx7I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "The Late Show with Stephen Colbert",
+    "tags": [
+     "The Late Show",
+     "Stephen Colbert",
+     "Colbert",
+     "Late Show",
+     "celebrities",
+     "late night",
+     "talk show",
+     "skits",
+     "bit",
+     "monologue",
+     "The Late Late Show",
+     "Late Late Show",
+     "letterman",
+     "david letterman",
+     "comedian",
+     "impressions",
+     "CBS",
+     "joke",
+     "jokes",
+     "funny",
+     "funny video",
+     "funny videos",
+     "humor",
+     "celebrity",
+     "celeb",
+     "hollywood",
+     "famous",
+     "James Corden",
+     "Corden",
+     "Comedy"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+     "title": "Trump Blames Puerto Rico For Running Up His Budget",
+     "description": "President Trump's visit to Puerto Rico quickly shifted from providing relief for hurricane victims to practicing his jump shot.\n\nSubscribe To \"The Late Show\" Channel HERE: http://bit.ly/ColbertYouTube\nFor more content from \"The Late Show with Stephen Colbert\", click HERE: http://bit.ly/1AKISnR\nWatch full episodes of \"The Late Show\" HERE: http://bit.ly/1Puei40\nLike \"The Late Show\" on Facebook HERE: http://on.fb.me/1df139Y\nFollow \"The Late Show\" on Twitter HERE: http://bit.ly/1dMzZzG\nFollow \"The Late Show\" on Google+ HERE: http://bit.ly/1JlGgzw\nFollow \"The Late Show\" on Instagram HERE: http://bit.ly/29wfREj\nFollow \"The Late Show\" on Tumblr HERE: http://bit.ly/29DVvtR\n\nWatch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.\n\nGet the CBS app for iPhone & iPad! Click HERE: http://bit.ly/12rLxge\n\nGet new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B\n\n---\nThe Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via CBS All Access, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes."
+    },
+    "defaultAudioLanguage": "en"
+   },
+   "contentDetails": {
+    "duration": "PT5M36S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "statistics": {
+    "viewCount": "347236",
+    "likeCount": "11213",
+    "dislikeCount": "312",
+    "favoriteCount": "0",
+    "commentCount": "2086"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/vAqXHeMc2ZIVTCB4JZZeOWTjmmg\"",
+   "id": "ruYeBXudsds",
+   "snippet": {
+    "publishedAt": "2017-10-03T02:17:34.000Z",
+    "channelId": "UCa6vGFO9ty8v5KZJXQxdhaw",
+    "title": "Jimmy Kimmel on Mass Shooting in Las Vegas",
+    "description": "After the tragedy in Jimmy’s hometown of Las Vegas, he sends love to everyone affected, talks about the major gun violence problem we have in this country, calls out the senators who are in the pocket of the NRA, and asks for common sense and action from our elected officials to ensure that something like this doesn’t happen again.\n\nYoung vs. Old in a Game of Generation Gap https://youtu.be/-6l8LyGl3dQ\n \nSUBSCRIBE to get the latest #KIMMEL: http://bit.ly/JKLSubscribe\n \nWatch Mean Tweets: http://bit.ly/KimmelMT10\n \nConnect with Jimmy Kimmel Live Online:\n \nVisit the Jimmy Kimmel Live WEBSITE: http://bit.ly/JKLWebsite\nLike Jimmy Kimmel on FACEBOOK: http://bit.ly/KimmelFB\nLike Jimmy Kimmel Live on FACEBOOK: http://bit.ly/JKLFacebook\nFollow @JimmyKimmel on TWITTER: http://bit.ly/KimmelTW\nFollow Jimmy Kimmel Live on TWITTER: http://bit.ly/JKLTwitter\nFollow Jimmy Kimmel Live on INSTAGRAM: http://bit.ly/JKLInstagram\n \nAbout Jimmy Kimmel Live:\n \nJimmy Kimmel serves as host and executive producer of Emmy-winning \"Jimmy Kimmel Live,\" ABC's late-night talk show.\n\n\"Jimmy Kimmel Live\" is well known for its huge viral video successes with 5.6 billion views on YouTube alone.\nSome of Kimmel's most popular comedy bits include - Mean Tweets, Lie Witness News, Jimmy's Twerk Fail Prank, Unnecessary Censorship, YouTube Challenge, The Baby Bachelor, Movie: The Movie, Handsome Men's Club, Jimmy Kimmel Lie Detective and music videos like \"I (Wanna) Channing All Over Your Tatum\" and a Blurred Lines parody with Robin Thicke, Pharrell, Jimmy and his security guard Guillermo.\nNow in its fifteenth season, Kimmel's guests have included: Johnny Depp, Meryl Streep, Tom Cruise, Halle Berry, Harrison Ford, Jennifer Aniston, Will Ferrell, Katy Perry, Tom Hanks, Scarlett Johansson, Channing Tatum, George Clooney, Larry David, Charlize Theron, Mark Wahlberg, Kobe Bryant, Steve Carell, Hugh Jackman, Kristen Wiig, Jeff Bridges, Jennifer Garner, Ryan Gosling, Bryan Cranston, Jamie Foxx, Amy Poehler, Ben Affleck, Robert Downey Jr., Jake Gyllenhaal, Oprah, and unfortunately Matt Damon.\n\nJimmy Kimmel on Mass Shooting in Las Vegas\nhttps://youtu.be/ruYeBXudsds",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ruYeBXudsds/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ruYeBXudsds/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ruYeBXudsds/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ruYeBXudsds/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ruYeBXudsds/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Jimmy Kimmel Live",
+    "tags": [
+     "jimmy",
+     "jimmy kimmel",
+     "jimmy kimmel live",
+     "late night",
+     "talk show",
+     "funny",
+     "comedic",
+     "comedy",
+     "clip",
+     "comedian",
+     "mean tweets",
+     "las vegas",
+     "las vegas shooting",
+     "mass shooting",
+     "gun control",
+     "politics",
+     "donald trump",
+     "mitch mcconnell",
+     "paul ryan",
+     "assault rifle"
+    ],
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Jimmy Kimmel on Mass Shooting in Las Vegas",
+     "description": "After the tragedy in Jimmy’s hometown of Las Vegas, he sends love to everyone affected, talks about the major gun violence problem we have in this country, calls out the senators who are in the pocket of the NRA, and asks for common sense and action from our elected officials to ensure that something like this doesn’t happen again.\n\nYoung vs. Old in a Game of Generation Gap https://youtu.be/-6l8LyGl3dQ\n \nSUBSCRIBE to get the latest #KIMMEL: http://bit.ly/JKLSubscribe\n \nWatch Mean Tweets: http://bit.ly/KimmelMT10\n \nConnect with Jimmy Kimmel Live Online:\n \nVisit the Jimmy Kimmel Live WEBSITE: http://bit.ly/JKLWebsite\nLike Jimmy Kimmel on FACEBOOK: http://bit.ly/KimmelFB\nLike Jimmy Kimmel Live on FACEBOOK: http://bit.ly/JKLFacebook\nFollow @JimmyKimmel on TWITTER: http://bit.ly/KimmelTW\nFollow Jimmy Kimmel Live on TWITTER: http://bit.ly/JKLTwitter\nFollow Jimmy Kimmel Live on INSTAGRAM: http://bit.ly/JKLInstagram\n \nAbout Jimmy Kimmel Live:\n \nJimmy Kimmel serves as host and executive producer of Emmy-winning \"Jimmy Kimmel Live,\" ABC's late-night talk show.\n\n\"Jimmy Kimmel Live\" is well known for its huge viral video successes with 5.6 billion views on YouTube alone.\nSome of Kimmel's most popular comedy bits include - Mean Tweets, Lie Witness News, Jimmy's Twerk Fail Prank, Unnecessary Censorship, YouTube Challenge, The Baby Bachelor, Movie: The Movie, Handsome Men's Club, Jimmy Kimmel Lie Detective and music videos like \"I (Wanna) Channing All Over Your Tatum\" and a Blurred Lines parody with Robin Thicke, Pharrell, Jimmy and his security guard Guillermo.\nNow in its fifteenth season, Kimmel's guests have included: Johnny Depp, Meryl Streep, Tom Cruise, Halle Berry, Harrison Ford, Jennifer Aniston, Will Ferrell, Katy Perry, Tom Hanks, Scarlett Johansson, Channing Tatum, George Clooney, Larry David, Charlize Theron, Mark Wahlberg, Kobe Bryant, Steve Carell, Hugh Jackman, Kristen Wiig, Jeff Bridges, Jennifer Garner, Ryan Gosling, Bryan Cranston, Jamie Foxx, Amy Poehler, Ben Affleck, Robert Downey Jr., Jake Gyllenhaal, Oprah, and unfortunately Matt Damon.\n\nJimmy Kimmel on Mass Shooting in Las Vegas\nhttps://youtu.be/ruYeBXudsds"
+    },
+    "defaultAudioLanguage": "en"
+   },
+   "contentDetails": {
+    "duration": "PT9M55S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "regionRestriction": {
+     "blocked": [
+      "PK",
+      "BT",
+      "BD",
+      "LK",
+      "NP",
+      "IN"
+     ]
+    },
+    "projection": "rectangular"
+   },
+   "statistics": {
+    "viewCount": "6678692",
+    "likeCount": "177760",
+    "dislikeCount": "28977",
+    "favoriteCount": "0",
+    "commentCount": "64551"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/BDDMnHQpBUip9zdhyts2ehPVkyY\"",
+   "id": "w58C1Vu10Is",
+   "snippet": {
+    "publishedAt": "2017-10-04T01:19:10.000Z",
+    "channelId": "UCPcFg7aBbaVzXoIKSNqwaww",
+    "title": "My slowest, longest dab",
+    "description": "ERIN ► https://www.instagram.com/2toesup\nCYR ► https://www.youtube.com/user/iamcyr\nERIK ► https://www.youtube.com/user/commentiquette\nJARRETT ► https://www.youtube.com/watch?v=1xa0wfkL9tY\n\n'NOTHER VID ► https://www.youtube.com/watch?v=uL7CpXY_S9o&list=PLiWL8lZPZ2_k1JH6urJ_H7HzH9etwmn7M&index=1\nSUBSCRIBE ► http://bit.ly/1A0Crdb\nTWITTER ► http://www.twitter.com/jacksfilms\nMERCH ► https://shop.crowdmade.com/collections/jacksfilms\nLIVE CHAT ► http://www.younow.com/jacksfilms\nSNAPCHAT ► realjacksfilms\nFACEBOOK ► http://www.facebook.com/jacksfilmsfans",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/w58C1Vu10Is/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/w58C1Vu10Is/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/w58C1Vu10Is/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/w58C1Vu10Is/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/w58C1Vu10Is/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "jacksfilms",
+    "tags": [
+     "jacksfilms",
+     "dab",
+     "longest",
+     "slowest"
+    ],
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "My slowest, longest dab",
+     "description": "ERIN ► https://www.instagram.com/2toesup\nCYR ► https://www.youtube.com/user/iamcyr\nERIK ► https://www.youtube.com/user/commentiquette\nJARRETT ► https://www.youtube.com/watch?v=1xa0wfkL9tY\n\n'NOTHER VID ► https://www.youtube.com/watch?v=uL7CpXY_S9o&list=PLiWL8lZPZ2_k1JH6urJ_H7HzH9etwmn7M&index=1\nSUBSCRIBE ► http://bit.ly/1A0Crdb\nTWITTER ► http://www.twitter.com/jacksfilms\nMERCH ► https://shop.crowdmade.com/collections/jacksfilms\nLIVE CHAT ► http://www.younow.com/jacksfilms\nSNAPCHAT ► realjacksfilms\nFACEBOOK ► http://www.facebook.com/jacksfilmsfans"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT58S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "statistics": {
+    "viewCount": "595805",
+    "likeCount": "72350",
+    "dislikeCount": "1082",
+    "favoriteCount": "0",
+    "commentCount": "7465"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/0zzYB_gAfCTupouDXW2l-wJriHc\"",
+   "id": "hw1RrmlrTtM",
+   "snippet": {
+    "publishedAt": "2017-10-03T03:38:53.000Z",
+    "channelId": "UCwWhs_6x42TyRM4Wstoq8HA",
+    "title": "Trevor Responds to the Las Vegas Shooting & Trump Tweets the Weekend Away: The Daily Show",
+    "description": "Trevor weighs in on a deadly mass shooting in Las Vegas, and President Trump lashes out at North Korea and Puerto Rico on Twitter.\n\nWatch full episodes of The Daily Show for free: http://www.cc.com/shows/the-daily-show-with-trevor-noah/full-episodes\n\nThe Daily Show with Trevor Noah airs weeknights at 11/10c on Comedy Central.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hw1RrmlrTtM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hw1RrmlrTtM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hw1RrmlrTtM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hw1RrmlrTtM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/hw1RrmlrTtM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "The Daily Show with Trevor Noah",
+    "tags": [
+     "the daily show",
+     "trevor noah",
+     "daily show with trevor noah",
+     "new trevor noah show",
+     "comedy central politics",
+     "the daily show episodes",
+     "Trevor Responds to the Las Vegas Shooting & Trump Tweets the Weekend Away",
+     "late night talk show hosts",
+     "comedy central",
+     "stand up comedy",
+     "comedians",
+     "comedy central comedians",
+     "comedy",
+     "funny",
+     "comedian",
+     "funny video",
+     "comedy videos",
+     "stand up videos",
+     "funny jokes",
+     "funny clips",
+     "hilarious videos",
+     "hilarious clips"
+    ],
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Trevor Responds to the Las Vegas Shooting & Trump Tweets the Weekend Away: The Daily Show",
+     "description": "Trevor weighs in on a deadly mass shooting in Las Vegas, and President Trump lashes out at North Korea and Puerto Rico on Twitter.\n\nWatch full episodes of The Daily Show for free: http://www.cc.com/shows/the-daily-show-with-trevor-noah/full-episodes\n\nThe Daily Show with Trevor Noah airs weeknights at 11/10c on Comedy Central."
+    },
+    "defaultAudioLanguage": "en"
+   },
+   "contentDetails": {
+    "duration": "PT10M39S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "regionRestriction": {
+     "blocked": [
+      "CA",
+      "GB",
+      "AU"
+     ]
+    },
+    "projection": "rectangular"
+   },
+   "statistics": {
+    "viewCount": "2541934",
+    "likeCount": "50622",
+    "dislikeCount": "7001",
+    "favoriteCount": "0",
+    "commentCount": "12050"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/41B4JRJ21HdcSiPDMYFF_OZnbgg\"",
+   "id": "yBXDLfgGKQM",
+   "snippet": {
+    "publishedAt": "2017-10-04T04:03:44.000Z",
+    "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+    "title": "Questions still unanswered about motive for Las Vegas mass shooting",
+    "description": "Suspected shooter Stephen Paddock checked into the Mandalay Bay Resort and Casino with 10 suitcases full of weapons; he set up cameras inside and outside his hotel room.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yBXDLfgGKQM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yBXDLfgGKQM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yBXDLfgGKQM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/yBXDLfgGKQM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/yBXDLfgGKQM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "ABC News",
+    "tags": [
+     "las",
+     "vegas",
+     "shooting",
+     "mass",
+     "stephen",
+     "paddock",
+     "marilou",
+     "danley",
+     "mandalay",
+     "bay",
+     "abc",
+     "news",
+     "world"
+    ],
+    "categoryId": "25",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Questions still unanswered about motive for Las Vegas mass shooting",
+     "description": "Suspected shooter Stephen Paddock checked into the Mandalay Bay Resort and Casino with 10 suitcases full of weapons; he set up cameras inside and outside his hotel room."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT3M54S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "statistics": {
+    "viewCount": "78463",
+    "likeCount": "344",
+    "dislikeCount": "100",
+    "favoriteCount": "0",
+    "commentCount": "750"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/dLi0M0B85hwmExlE_qd79TIDpmE\"",
+   "id": "8z2RgsLSn-c",
+   "snippet": {
+    "publishedAt": "2017-10-03T03:41:49.000Z",
+    "channelId": "UC8-Th83bH_thdKZDJCrn88g",
+    "title": "Miley Cyrus Opens The Tonight Show with Moving Performance of \"No Freedom\"",
+    "description": "In light of the mass shooting in Las Vegas, Miley Cyrus (accompanied by Adam Sandler) performs a moving rendition of Dido's \"No Freedom.\"\n\nSubscribe NOW to The Tonight Show Starring Jimmy Fallon: http://bit.ly/1nwT1aN\n\nWatch The Tonight Show Starring Jimmy Fallon Weeknights 11:35/10:35c\nGet more Jimmy Fallon: \nFollow Jimmy: http://Twitter.com/JimmyFallon\nLike Jimmy: https://Facebook.com/JimmyFallon\n\nGet more The Tonight Show Starring Jimmy Fallon: \nFollow The Tonight Show: http://Twitter.com/FallonTonight\nLike The Tonight Show: https://Facebook.com/FallonTonight\nThe Tonight Show Tumblr: http://fallontonight.tumblr.com/\n\nGet more NBC: \nNBC YouTube: http://bit.ly/1dM1qBH\nLike NBC: http://Facebook.com/NBC\nFollow NBC: http://Twitter.com/NBC\nNBC Tumblr: http://nbctv.tumblr.com/\nNBC Google+: https://plus.google.com/+NBC/posts\n\nThe Tonight Show Starring Jimmy Fallon features hilarious highlights from the show including: comedy sketches, music parodies, celebrity interviews, ridiculous games, and, of course, Jimmy's Thank You Notes and hashtags! You'll also find behind the scenes videos and other great web exclusives.\n\nMiley Cyrus Opens The Tonight Show with Moving Performance of \"No Freedom\"\nhttp://www.youtube.com/fallontonight",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8z2RgsLSn-c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8z2RgsLSn-c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8z2RgsLSn-c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/8z2RgsLSn-c/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/8z2RgsLSn-c/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "The Tonight Show Starring Jimmy Fallon",
+    "tags": [
+     "The Tonight Show",
+     "Jimmy Fallon",
+     "Miley Cyrus",
+     "Opens",
+     "Moving Performance",
+     "No Freedom",
+     "NBC",
+     "NBC TV",
+     "Television",
+     "Funny",
+     "Talk Show",
+     "comedic",
+     "humor",
+     "snl",
+     "Fallon Stand-up",
+     "Fallon monologue",
+     "tonight",
+     "show",
+     "jokes",
+     "funny video",
+     "interview",
+     "variety",
+     "comedy sketches",
+     "talent",
+     "celebrities",
+     "video",
+     "clip",
+     "highlight",
+     "music",
+     "musical performance",
+     "the roots",
+     "Younger Now",
+     "Las Vegas",
+     "Mandalay Bay",
+     "Adam Sandler",
+     "senseless shooting",
+     "tragedy"
+    ],
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Miley Cyrus Opens The Tonight Show with Moving Performance of \"No Freedom\"",
+     "description": "In light of the mass shooting in Las Vegas, Miley Cyrus (accompanied by Adam Sandler) performs a moving rendition of Dido's \"No Freedom.\"\n\nSubscribe NOW to The Tonight Show Starring Jimmy Fallon: http://bit.ly/1nwT1aN\n\nWatch The Tonight Show Starring Jimmy Fallon Weeknights 11:35/10:35c\nGet more Jimmy Fallon: \nFollow Jimmy: http://Twitter.com/JimmyFallon\nLike Jimmy: https://Facebook.com/JimmyFallon\n\nGet more The Tonight Show Starring Jimmy Fallon: \nFollow The Tonight Show: http://Twitter.com/FallonTonight\nLike The Tonight Show: https://Facebook.com/FallonTonight\nThe Tonight Show Tumblr: http://fallontonight.tumblr.com/\n\nGet more NBC: \nNBC YouTube: http://bit.ly/1dM1qBH\nLike NBC: http://Facebook.com/NBC\nFollow NBC: http://Twitter.com/NBC\nNBC Tumblr: http://nbctv.tumblr.com/\nNBC Google+: https://plus.google.com/+NBC/posts\n\nThe Tonight Show Starring Jimmy Fallon features hilarious highlights from the show including: comedy sketches, music parodies, celebrity interviews, ridiculous games, and, of course, Jimmy's Thank You Notes and hashtags! You'll also find behind the scenes videos and other great web exclusives.\n\nMiley Cyrus Opens The Tonight Show with Moving Performance of \"No Freedom\"\nhttp://www.youtube.com/fallontonight"
+    },
+    "defaultAudioLanguage": "en"
+   },
+   "contentDetails": {
+    "duration": "PT4M16S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "regionRestriction": {
+     "blocked": [
+      "BW",
+      "MR",
+      "GA",
+      "DJ",
+      "BF",
+      "ET",
+      "BJ",
+      "BI",
+      "DZ",
+      "TN",
+      "LY",
+      "LS",
+      "LR",
+      "RW",
+      "CD",
+      "NA",
+      "NG",
+      "NE",
+      "EG",
+      "KM",
+      "CV",
+      "ZW",
+      "GW",
+      "GQ",
+      "KE",
+      "TD",
+      "GN",
+      "ER",
+      "AO",
+      "CF",
+      "CG",
+      "CI",
+      "TZ",
+      "CM",
+      "ZA",
+      "UG",
+      "SC",
+      "SD",
+      "GM",
+      "MW",
+      "MU",
+      "SL",
+      "TG",
+      "SN",
+      "SO",
+      "GH",
+      "ML",
+      "SS",
+      "ST",
+      "MZ",
+      "MG",
+      "SZ",
+      "ZM",
+      "MA"
+     ]
+    },
+    "projection": "rectangular"
+   },
+   "statistics": {
+    "viewCount": "2956460",
+    "likeCount": "61697",
+    "dislikeCount": "1592",
+    "favoriteCount": "0",
+    "commentCount": "4875"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/ap6doJltAFaG3pedpKGV8ja_fwA\"",
+   "id": "iK7lICvUhCI",
+   "snippet": {
+    "publishedAt": "2017-10-02T19:59:02.000Z",
+    "channelId": "UC3sznuotAs2ohg_U__Jzj_Q",
+    "title": "Film Theory: Did Rick CLONE Beth - SOLVED! (Rick and Morty)",
+    "description": "Subscribe for More Awesome Theories! ►► http://bit.ly/1dI8VBH\nWill MORTY KILL RICK?! ►► https://goo.gl/GBkFhi\nHow PICKLE RICK Functions! ►►► https://goo.gl/AiQHrv\n\nIn this season of RICK AND MORTY, Rick offered to clone Beth so that she could live her fullest life while having a Beth Clone remain behind for her children. But the episode ended ambiguously, leaving us to ask if she took Rick up on this offer. So did she clone herself and ditch her family to explore the cosmos? Well, Loyal Theorists, there is actually a definitive answer to this question hidden within the episode, and I have found it!\n\nMORE FILM THEORIES\nYOUR SOUL'S WORTH! | Fullmetal Alchemist ► https://goo.gl/2GSDSB\nRick's True CRIME! | Rick and Morty ►► https://goo.gl/3F4lza\nHow DEADLY was Death Note? ►► https://goo.gl/h9wTy4\nAriel & Hercules Are RELATED?! ► https://goo.gl/p9ZkC2\nWonder Woman FAILED! ►► https://goo.gl/c6q8Rr\nA TANGLED Mess! | Tangled ►► https://goo.gl/wCro98\nWill The LION KING Survive?! ►► https://goo.gl/ogJk9v\nSpiderman Is DEAD! ►► https://goo.gl/JaK7nx\nKONG's Secret Past! | Kong Skull Island ► https://goo.gl/WdJy9B\n\nLike the theme song and remix for this episode? Thanks to CARF! https://www.youtube.com/user/carfmobile\n\nSOCIAL MEDIA:\nTwitter: @MatPatGT\nFacebook: facebook.com/GameTheorists\nInstagram:  instagram.com/matpatgt",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/iK7lICvUhCI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/iK7lICvUhCI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/iK7lICvUhCI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/iK7lICvUhCI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/iK7lICvUhCI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "The Film Theorists",
+    "tags": [
+     "Rick and morty",
+     "beth clone",
+     "pickle rick",
+     "rick and morty season 3",
+     "rick and morty theory",
+     "beth",
+     "rick and morty season 3 episode 2",
+     "rick and morty season 3 episode 4",
+     "rick and morty season 3 episode 5",
+     "rick and morty season 3 finale",
+     "rick and morty finale",
+     "rick",
+     "morty",
+     "journal 3",
+     "pickle",
+     "rick and morty film theory",
+     "film theory",
+     "matpat",
+     "film theorists",
+     "pickle rick rat",
+     "film theory rick and morty",
+     "rick and morty gravity falls crossover",
+     "dan harmon",
+     "clone",
+     "clones"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+     "title": "Film Theory: Did Rick CLONE Beth - SOLVED! (Rick and Morty)",
+     "description": "Subscribe for More Awesome Theories! ►► http://bit.ly/1dI8VBH\nWill MORTY KILL RICK?! ►► https://goo.gl/GBkFhi\nHow PICKLE RICK Functions! ►►► https://goo.gl/AiQHrv\n\nIn this season of RICK AND MORTY, Rick offered to clone Beth so that she could live her fullest life while having a Beth Clone remain behind for her children. But the episode ended ambiguously, leaving us to ask if she took Rick up on this offer. So did she clone herself and ditch her family to explore the cosmos? Well, Loyal Theorists, there is actually a definitive answer to this question hidden within the episode, and I have found it!\n\nMORE FILM THEORIES\nYOUR SOUL'S WORTH! | Fullmetal Alchemist ► https://goo.gl/2GSDSB\nRick's True CRIME! | Rick and Morty ►► https://goo.gl/3F4lza\nHow DEADLY was Death Note? ►► https://goo.gl/h9wTy4\nAriel & Hercules Are RELATED?! ► https://goo.gl/p9ZkC2\nWonder Woman FAILED! ►► https://goo.gl/c6q8Rr\nA TANGLED Mess! | Tangled ►► https://goo.gl/wCro98\nWill The LION KING Survive?! ►► https://goo.gl/ogJk9v\nSpiderman Is DEAD! ►► https://goo.gl/JaK7nx\nKONG's Secret Past! | Kong Skull Island ► https://goo.gl/WdJy9B\n\nLike the theme song and remix for this episode? Thanks to CARF! https://www.youtube.com/user/carfmobile\n\nSOCIAL MEDIA:\nTwitter: @MatPatGT\nFacebook: facebook.com/GameTheorists\nInstagram:  instagram.com/matpatgt"
+    },
+    "defaultAudioLanguage": "en"
+   },
+   "contentDetails": {
+    "duration": "PT8M39S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "statistics": {
+    "viewCount": "2703120",
+    "likeCount": "95444",
+    "dislikeCount": "9343",
+    "favoriteCount": "0",
+    "commentCount": "34893"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/6-mUywYMpwkuOI9EZTF-jIYxxy0\"",
+   "id": "VX9IAt75P28",
+   "snippet": {
+    "publishedAt": "2017-10-03T10:00:01.000Z",
+    "channelId": "UC4PooiX37Pld1T8J5SYT-SQ",
+    "title": "Fast Food Hot Sauce Taste Test",
+    "description": "Can we tell which fast food hot sauce is which by taste alone? GMM #1192\nDon’t miss an all new Ten Feet Tall: http://bit.ly/YogaBowl\nSUBSCRIBE to GMM: http://bit.ly/subrl2 | Watch today's GMMore: http://bit.ly/HotSaucePictionary\nGet our brand new GMM merch: http://mythical.store\n\nFollow Rhett & Link:\nWebsite: http://mythical.co\nFacebook: http://facebook.com/rhettandlink\nTwitter: http://twitter.com/rhettandlink\nTumblr: http://rhettandlink.tumblr.com\nInstagram: http://instagram.com/rhettandlink\n\nOther Rhett & Link Channels:\nMain Channel: https://youtube.com/rhettandlink\nGood Mythical MORE: https://youtube.com/goodmythicalmore\nThis Is Mythical: https://youtube.com/thisismythical\n\nWatch More GMM:\nChoose a Season: http://bit.ly/2axhxZN\nPopular Videos: http://bit.ly/2afIJ12\nLatest Uploads: http://bit.ly/2aZMw3K\nWill It?: http://bit.ly/2a64BiV\nTaste Tests: http://bit.ly/2a4v5hZ\n\nListen to our podcast, Ear Biscuits:\nApply Podcasts: http://apple.co/29PTWTM\nSpotify: http://spoti.fi/2oIaAwp\nArt19: https://art19.com/shows/ear-biscuits\n\nJOIN the RhettandLinKommunity: http://bit.ly/rlkommunity\n\nMail us stuff to our P.O. Box: http://mythical.co/contact\n\nSubmit a Wheel of Mythicality intro video: http://bit.ly/GMMWheelIntro\n\nCredits:\nExecutive Producer: Stevie Wynne Levine\nExecutive Producer: Darren Belitsky\nWriter/Producer: Lizzie Bassett\nWriter/Producer: Micah Gordon\nWriter/Producer: Kevin Kostelnik\nWriter/Producer: Ellie McElvain\nWriter/Producer: Matt Carney\nWriter/Producer: Eliza Bayne\nWriters Assistant: Nick Lopez\nAssociate Producer: Chase Hilt\nTechnical Director/Graphics/Editor: Morgan Locke\nEditor: Casey Nimmer\nGraphics: Matthew Dwyer\nArt Director: Colin J. Morris \nProduction Assistant: Davin Tjen\nContent Manager: Becca Canote\nSet Construction/Dresser: Cassie Cobb\n\nIntro Motion Graphics: Digital Twigs http://www.digitaltwigs.com\nIntro Music: Jeff Zeigler and Sarah Schimeneck http://www.jeffzeigler.com\nOutro Music: Jeff Zeigler and Sarah Schimeneck http://www.jeffzeigler.com\nWheel of Mythicality Music: http://www.royaltyfreemusiclibrary.com/\nAll Supplemental Music: Opus 1 Music  http://opus1.sourceaudio.com/ \nMicrophone: ‘The Mouse’ by Blue Microphones http://www.bluemic.com/mouse/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VX9IAt75P28/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VX9IAt75P28/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VX9IAt75P28/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/VX9IAt75P28/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/VX9IAt75P28/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Good Mythical Morning",
+    "tags": [
+     "gmm",
+     "good mythical morning",
+     "good mythical morning will it",
+     "Rhett",
+     "link",
+     "rhett and link",
+     "Rhett link",
+     "taste test",
+     "gmm taste test",
+     "mythical morning",
+     "season 12",
+     "rhett link taste test",
+     "fast food hot sauce",
+     "fast food hot sauce taste test",
+     "hot sauce taste test",
+     "fast food taste test",
+     "hot sauce",
+     "fast food",
+     "taco bell",
+     "taco bell sauce",
+     "fire sauce",
+     "bojangles",
+     "texas pete",
+     "best hot sauce",
+     "best taco sauce",
+     "taco sauce",
+     "hot sauce challenge",
+     "food porn",
+     "spicy",
+     "spicy food",
+     "hot",
+     "hot food",
+     "comedy"
+    ],
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+     "title": "Fast Food Hot Sauce Taste Test",
+     "description": "Can we tell which fast food hot sauce is which by taste alone? GMM #1192\nDon’t miss an all new Ten Feet Tall: http://bit.ly/YogaBowl\nSUBSCRIBE to GMM: http://bit.ly/subrl2 | Watch today's GMMore: http://bit.ly/HotSaucePictionary\nGet our brand new GMM merch: http://mythical.store\n\nFollow Rhett & Link:\nWebsite: http://mythical.co\nFacebook: http://facebook.com/rhettandlink\nTwitter: http://twitter.com/rhettandlink\nTumblr: http://rhettandlink.tumblr.com\nInstagram: http://instagram.com/rhettandlink\n\nOther Rhett & Link Channels:\nMain Channel: https://youtube.com/rhettandlink\nGood Mythical MORE: https://youtube.com/goodmythicalmore\nThis Is Mythical: https://youtube.com/thisismythical\n\nWatch More GMM:\nChoose a Season: http://bit.ly/2axhxZN\nPopular Videos: http://bit.ly/2afIJ12\nLatest Uploads: http://bit.ly/2aZMw3K\nWill It?: http://bit.ly/2a64BiV\nTaste Tests: http://bit.ly/2a4v5hZ\n\nListen to our podcast, Ear Biscuits:\nApply Podcasts: http://apple.co/29PTWTM\nSpotify: http://spoti.fi/2oIaAwp\nArt19: https://art19.com/shows/ear-biscuits\n\nJOIN the RhettandLinKommunity: http://bit.ly/rlkommunity\n\nMail us stuff to our P.O. Box: http://mythical.co/contact\n\nSubmit a Wheel of Mythicality intro video: http://bit.ly/GMMWheelIntro\n\nCredits:\nExecutive Producer: Stevie Wynne Levine\nExecutive Producer: Darren Belitsky\nWriter/Producer: Lizzie Bassett\nWriter/Producer: Micah Gordon\nWriter/Producer: Kevin Kostelnik\nWriter/Producer: Ellie McElvain\nWriter/Producer: Matt Carney\nWriter/Producer: Eliza Bayne\nWriters Assistant: Nick Lopez\nAssociate Producer: Chase Hilt\nTechnical Director/Graphics/Editor: Morgan Locke\nEditor: Casey Nimmer\nGraphics: Matthew Dwyer\nArt Director: Colin J. Morris \nProduction Assistant: Davin Tjen\nContent Manager: Becca Canote\nSet Construction/Dresser: Cassie Cobb\n\nIntro Motion Graphics: Digital Twigs http://www.digitaltwigs.com\nIntro Music: Jeff Zeigler and Sarah Schimeneck http://www.jeffzeigler.com\nOutro Music: Jeff Zeigler and Sarah Schimeneck http://www.jeffzeigler.com\nWheel of Mythicality Music: http://www.royaltyfreemusiclibrary.com/\nAll Supplemental Music: Opus 1 Music  http://opus1.sourceaudio.com/ \nMicrophone: ‘The Mouse’ by Blue Microphones http://www.bluemic.com/mouse/"
+    },
+    "defaultAudioLanguage": "en"
+   },
+   "contentDetails": {
+    "duration": "PT10M17S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "projection": "rectangular"
+   },
+   "statistics": {
+    "viewCount": "1245842",
+    "likeCount": "31044",
+    "dislikeCount": "574",
+    "favoriteCount": "0",
+    "commentCount": "3002"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/R9HmfM2WRdHL9QLxDofV0OLim4E\"",
+   "id": "nFxUU519P7U",
+   "snippet": {
+    "publishedAt": "2017-10-03T15:51:53.000Z",
+    "channelId": "UCQANb2YPwAtK-IQJrLaaUFw",
+    "title": "On October 3rd, he asked me to help...",
+    "description": "Donate at www.gofundme.com/october3",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nFxUU519P7U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nFxUU519P7U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nFxUU519P7U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/nFxUU519P7U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/nFxUU519P7U/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Brian Tyler Cohen",
+    "tags": [
+     "mean girls",
+     "october 3",
+     "aaron samuels"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "On October 3rd, he asked me to help...",
+     "description": "Donate at www.gofundme.com/october3"
+    }
+   },
+   "contentDetails": {
+    "duration": "PT1M1S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "projection": "rectangular"
+   },
+   "statistics": {
+    "viewCount": "151942",
+    "likeCount": "3583",
+    "dislikeCount": "350",
+    "favoriteCount": "0",
+    "commentCount": "462"
+   }
+  }
+ ]
+}

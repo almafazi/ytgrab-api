@@ -1,0 +1,15 @@
+User-agent: *
+
+Sitemap: http://trapcity.space/pampam.xml
+Sitemap: http://trapcity.space/pampam1.xml
+Sitemap: http://trapcity.space/pampam2.xml
+Sitemap: http://trapcity.space/pampam3.xml
+Sitemap: http://trapcity.space/pampam4.xml
+Sitemap: http://trapcity.space/pampam5.xml
+Sitemap: http://trapcity.space/pampam6.xml
+Sitemap: http://trapcity.space/pampam7.xml
+Sitemap: http://trapcity.space/pampam8.xml
+Sitemap: http://trapcity.space/pampam9.xml
+
+
+

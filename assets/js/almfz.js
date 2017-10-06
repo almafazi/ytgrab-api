@@ -1,0 +1,1 @@
+jQuery(function(){jQuery("#hyv-search").autocomplete({source:function(a,b){var c=[];jQuery.ajax({type:"POST",url:"http://suggestqueries.google.com/complete/search?hl=en&ds=yt&client=youtube&hjson=t&cp=1",dataType:"jsonp",data:jQuery.extend({q:a.term},{}),success:function(a){console.log(a[1]),obj=a[1],jQuery.each(obj,function(a,b){c.push(b[0])}),b(c)}})}})});
